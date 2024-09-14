@@ -1,13 +1,8 @@
-import Header from './components/Header';
-import Category from './components/Category';
-import TopRest from './components/TopRest';
+import Landing from './Pages/Landing';
+
 function App() {
   return (
-    <> 
-    <Header />
-    <Category />
-    <TopRest />
-    </>
+    <Landing />
   );
 }
 
